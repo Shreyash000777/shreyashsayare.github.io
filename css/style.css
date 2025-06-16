@@ -396,6 +396,10 @@ mark,
   max-width: 100%;
   height: auto; }
 
+.rounded-circle {
+    border-radius: 50%;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
